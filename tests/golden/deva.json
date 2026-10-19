@@ -1,0 +1,10 @@
+{"stem": "deva", "linga": "pum", "forms": {
+  "1.1": ["devaH"], "1.2": ["devO"], "1.3": ["devAH"],
+  "2.1": ["devam"], "2.2": ["devO"], "2.3": ["devAn"],
+  "3.1": ["devena"], "3.2": ["devAByAm"], "3.3": ["devEH"],
+  "4.1": ["devAya"], "4.2": ["devAByAm"], "4.3": ["deveByaH"],
+  "5.1": ["devAt", "devAd"], "5.2": ["devAByAm"], "5.3": ["deveByaH"],
+  "6.1": ["devasya"], "6.2": ["devayoH"], "6.3": ["devAnAm"],
+  "7.1": ["deve"], "7.2": ["devayoH"], "7.3": ["devezu"],
+  "8.1": ["deva"], "8.2": ["devO"], "8.3": ["devAH"]
+}}
